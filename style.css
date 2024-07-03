@@ -1,0 +1,42 @@
+.tbl{
+    border: 4px solid rgb(255, 0, 0);
+    background-color: rgb(255, 219, 190);
+    align-items: center;
+    width: 500px;
+    border-radius: 18px;
+    text-align: center;
+    padding: 20px;
+}
+
+.txtSearchValue{
+    size: 100%;
+    border: 4px solid rgb(255, 0, 0);
+    background-color: blanchedalmond;
+    align-items: center;
+    width: 150px;
+    height: 50px;
+}
+
+.images:hover .shape{
+    bottom: 40px;
+}
+
+.searchButton{
+    border: 5px rgb(250, 127, 19);
+    background-color: blanchedalmond;
+    align-items: center;
+    width: 100px;
+    height: 50px;
+}
+
+
+
+.info{
+    border: 4px solid rgb(255, 123, 0);
+    background-color: rgb(250, 197, 106);
+    align-items: center;
+    width: 500px;
+    border-radius: 18px;
+    text-align: center;
+    padding: 20px;
+}
